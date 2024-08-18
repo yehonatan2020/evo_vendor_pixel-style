@@ -37,7 +37,6 @@ PRODUCT_PRODUCT_PROPERTIES += \
     setupwizard.feature.show_support_link_in_deferred_setup=false \
     setupwizard.feature.skip_button_use_mobile_data.carrier1839=true \
     setupwizard.personal_safety_suw_enabled=true \
-    setupwizard.theme=glif_v4
 
 # StorageManager configuration
 PRODUCT_PRODUCT_PROPERTIES += \
