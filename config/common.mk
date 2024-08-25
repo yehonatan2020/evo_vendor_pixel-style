@@ -14,6 +14,20 @@
 # limitations under the License.
 #
 
+PRODUCT_ARTIFACT_PATH_REQUIREMENT_ALLOWED_LIST +=  \
+    system/app/GoogleExtShared/GoogleExtShared.apk \
+    system/app/GooglePrintRecommendationService/GooglePrintRecommendationService.apk \
+    system/etc/permissions/privapp-permissions-google.xml \
+    system/etc/textclassifier/actions_suggestions.universal.model \
+    system/etc/textclassifier/lang_id.model \
+    system/etc/textclassifier/textclassifier.en.model \
+    system/etc/textclassifier/textclassifier.universal.model \
+    system/priv-app/DocumentsUIGoogle/DocumentsUIGoogle.apk \
+    system/priv-app/TagGoogle/TagGoogle.apk
+
+
+PRODUCT_USE_SCUDO := true
+
 # Gboard configuration
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.com.google.ime.theme_id=5 \
