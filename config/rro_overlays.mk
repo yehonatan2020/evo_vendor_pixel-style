@@ -16,8 +16,6 @@
 
 # Google Overlays
 PRODUCT_PACKAGES += \
-    AccessibilityMenuOverlay \
-    BuiltInPrintServiceOverlay \
     CaptivePortalLoginOverlay \
     CellBroadcastReceiverOverlay \
     CellBroadcastServiceOverlay \
@@ -30,6 +28,9 @@ PRODUCT_PACKAGES += \
     GoogleHealthConnectOverlay \
     GoogleWebViewOverlay \
     MediaProviderOverlay \
+    PearlOverlay2024 \
+    PixelAccessibilityMenuOverlay \
+    PixelBuiltInPrintServiceOverlay \
     PixelConfigOverlay2018 \
     PixelConfigOverlay2019 \
     PixelConfigOverlay2019Midyear \
