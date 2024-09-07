@@ -38,7 +38,6 @@ PRODUCT_PACKAGES += \
     PixelFwOverlay \
     PixelLauncherCustomOverlay \
     PixelSettingsProviderOverlay \
-    PixelSetupWizardOverlay \
     PixelTeleServiceOverlay \
     PixelTelecomOverlay \
     PixelTelephonyProviderOverlay \
