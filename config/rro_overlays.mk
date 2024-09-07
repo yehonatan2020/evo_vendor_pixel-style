@@ -40,7 +40,6 @@ PRODUCT_PACKAGES += \
     PixelLauncherIconsOverlay \
     PixelLauncherOverlayCustom \
     PixelSettingsProviderOverlay \
-    PixelSetupWizardOverlay \
     PixelTeleServiceOverlay \
     PixelTelecomOverlay \
     PixelTelephonyProviderOverlay \
