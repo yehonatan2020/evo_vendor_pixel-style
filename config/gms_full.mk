@@ -42,12 +42,10 @@ PRODUCT_PACKAGES += \
 
 # product/priv-app
 PRODUCT_PACKAGES += \
-    AICorePrebuilt-aicore_20240509.01_RC02 \
     CarrierLocation \
     CarrierMetrics \
     CbrsNetworkMonitor \
     ConfigUpdater \
-    CreativeAssistant \
     DeviceIntelligenceNetworkPrebuilt-U.21_playstore_astrea_20240222.00_RC01 \
     DevicePersonalizationPrebuiltPixel2024-U.21_P24_aiai_20240327.00_RC01 \
     GCS \
