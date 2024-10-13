@@ -37,7 +37,6 @@ PRODUCT_PACKAGES += \
     TrichromeLibrary-Stub \
     WebViewGoogle \
     WebViewGoogle-Stub \
-    arcore \
     talkback
 
 # product/priv-app
@@ -59,7 +58,6 @@ PRODUCT_PACKAGES += \
     SettingsIntelligenceGooglePrebuilt \
     SetupWizardPrebuilt \
     TurboPrebuilt \
-    UvExposureReporter \
 
 # system/app
 PRODUCT_PACKAGES += \
